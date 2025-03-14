@@ -30,4 +30,7 @@
 *.exe
 *.out
 *.app
-/.vs/OpenGL
+
+# Other files
+/solution/.vs/
+/project/*/build/
