@@ -34,3 +34,4 @@
 # Other files
 /solution/.vs/
 /project/*/build/
+/project/*/.vs/
